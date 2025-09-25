@@ -1,0 +1,28 @@
+.button {
+    margin-top:50px ;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 20px;
+}
+button{
+    padding: 10px 20px;
+    font-size: 16px;
+    background-color: #4CAF50;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+.joke {
+    height: 50px;
+    font-size: 20px;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    width: 400px;
+    padding: 10px;
+    border: 1px solid #000000;
+    border-radius: 5px;
+}
