@@ -21,7 +21,7 @@ You can see it in action (if deployed) or run it locally to fetch jokes instantl
 1. **Clone the repository:**
 
 ```bash
-git clone https://github.com/masum1234-gok/Random-Jokes.git
+git clone https://github.com/mir-md-masum-billah/Random-Jokes
 ```
 
 2. **Navigate into the project directory:**
@@ -72,4 +72,5 @@ This project is **open source** and available under the [MIT License](LICENSE).
 
 ---
 
-Made with â¤ï¸ by [Masum Billah](https://github.com/masum1234-gok)
+Made with â¤ï¸ by [Masum Billah](https://github.com/mir-md-masum-billah)
+
